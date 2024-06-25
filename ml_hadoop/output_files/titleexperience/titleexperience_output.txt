@@ -1,0 +1,349 @@
+AI Architect_EX	200000
+AI Architect_MI	800000
+AI Architect_SE	233631
+AI Developer_EN	106666
+AI Developer_MI	117500
+AI Developer_SE	161000
+AI Engineer_EN	31666
+AI Engineer_EX	178800
+AI Engineer_MI	153075
+AI Engineer_SE	174323
+AI Product Manager_MI	152650
+AI Product Manager_SE	120000
+AI Programmer_EN	1040161
+AI Programmer_MI	30000
+AI Programmer_SE	120000
+AI Research Engineer_EN	684366
+AI Research Engineer_MI	118250
+AI Research Scientist_EN	80000
+AI Research Scientist_MI	84500
+AI Research Scientist_SE	150000
+AI Scientist_EN	322500
+AI Scientist_EX	200000
+AI Scientist_MI	110125
+AI Scientist_SE	257980
+AI Software Engineer_EN	800000
+AI Software Engineer_SE	159550
+AWS Data Architect_MI	258000
+Admin & Data Analyst_EN	50000
+Admin & Data Analyst_MI	66500
+Admin & Data Analyst_SE	60000
+Analytics Engineer_EN	100704
+Analytics Engineer_EX	185916
+Analytics Engineer_MI	140973
+Analytics Engineer_SE	166218
+Analytics Engineering Manager_SE	325000
+Applied Data Scientist_EN	45500
+Applied Data Scientist_MI	501250
+Applied Data Scientist_SE	179250
+Applied Machine Learning Engineer_EX	225000
+Applied Machine Learning Engineer_MI	97500
+Applied Machine Learning Scientist_EN	1356333
+Applied Machine Learning Scientist_MI	468200
+Applied Machine Learning Scientist_SE	105350
+Applied Research Scientist_SE	60000
+Applied Scientist_EN	153442
+Applied Scientist_MI	178616
+Applied Scientist_SE	195430
+Autonomous Vehicle Technician_MI	82777
+Azure Data Engineer_EN	100000
+Azure Data Engineer_SE	100000
+BI Analyst_EN	96080
+BI Analyst_MI	108940
+BI Analyst_SE	140761
+BI Data Analyst_EN	55714
+BI Data Analyst_EX	150000
+BI Data Analyst_MI	1288666
+BI Data Analyst_SE	63500
+BI Data Engineer_EN	60000
+BI Developer_EN	100650
+BI Developer_EX	167250
+BI Developer_MI	92261
+BI Developer_SE	111794
+Bear Robotics_MI	167500
+Big Data Architect_SE	124999
+Big Data Developer_MI	117000
+Big Data Engineer_EN	354400
+Big Data Engineer_MI	819000
+Big Data Engineer_SE	131666
+Business Data Analyst_EN	53600
+Business Data Analyst_MI	323545
+Business Data Analyst_SE	103400
+Business Intelligence Analyst_EN	97028
+Business Intelligence Analyst_EX	155000
+Business Intelligence Analyst_MI	114776
+Business Intelligence Analyst_SE	121827
+Business Intelligence Data Analyst_EN	99000
+Business Intelligence Data Analyst_MI	91000
+Business Intelligence Developer_EN	98700
+Business Intelligence Developer_EX	142250
+Business Intelligence Developer_MI	81166
+Business Intelligence Developer_SE	111591
+Business Intelligence Engineer_EN	90630
+Business Intelligence Engineer_EX	175900
+Business Intelligence Engineer_MI	115082
+Business Intelligence Engineer_SE	144051
+Business Intelligence Lead_EN	150747
+Business Intelligence Lead_SE	134037
+Business Intelligence Manager_MI	141850
+Business Intelligence Manager_SE	75500
+Business Intelligence Specialist_MI	88756
+Business Intelligence Specialist_SE	154014
+Business Intelligence_EN	117363
+Business Intelligence_EX	197057
+Business Intelligence_MI	131382
+Business Intelligence_SE	141979
+CRM Data Analyst_SE	40000
+Cloud Data Architect_SE	250000
+Cloud Data Engineer_EN	122000
+Cloud Data Engineer_MI	120000
+Cloud Data Engineer_SE	160000
+Cloud Database Engineer_MI	136354
+Cloud Database Engineer_SE	149696
+Compliance Data Analyst_EN	45000
+Computational Biologist_SE	216750
+Computer Vision Engineer_EN	153750
+Computer Vision Engineer_MI	367750
+Computer Vision Engineer_SE	202808
+Computer Vision Software Engineer_EN	113333
+Computer Vision Software Engineer_MI	81000
+Computer Vision Software Engineer_SE	50000
+Consultant Data Engineer_SE	105000
+Data Analyst Lead_EN	18000
+Data Analyst Lead_MI	200000
+Data Analyst_EN	87211
+Data Analyst_EX	111479
+Data Analyst_MI	100489
+Data Analyst_SE	122471
+Data Analytics Associate_SE	91000
+Data Analytics Consultant_EN	50000
+Data Analytics Consultant_MI	91932
+Data Analytics Engineer_EN	20000
+Data Analytics Engineer_MI	122500
+Data Analytics Engineer_SE	58500
+Data Analytics Lead_MI	541666
+Data Analytics Lead_SE	212610
+Data Analytics Manager_EN	27000
+Data Analytics Manager_EX	147500
+Data Analytics Manager_MI	205071
+Data Analytics Manager_SE	147921
+Data Analytics Specialist_EN	61450
+Data Analytics Specialist_MI	110500
+Data Analytics Specialist_SE	111647
+Data Architect_EX	181250
+Data Architect_MI	127333
+Data Architect_SE	162393
+Data DevOps Engineer_EN	44382
+Data DevOps Engineer_MI	88000
+Data DevOps Engineer_SE	50000
+Data Developer_EN	60000
+Data Developer_MI	96734
+Data Developer_SE	104620
+Data Engineer_EN	166669
+Data Engineer_EX	194195
+Data Engineer_MI	122105
+Data Engineer_SE	156616
+Data Infrastructure Engineer_MI	217288
+Data Infrastructure Engineer_SE	196708
+Data Integration Developer_SE	140580
+Data Integration Engineer_EN	125000
+Data Integration Engineer_MI	116844
+Data Integration Engineer_SE	125875
+Data Integration Specialist_EN	96605
+Data Integration Specialist_MI	87875
+Data Integration Specialist_SE	3000000
+Data Lead_EX	215333
+Data Lead_MI	122500
+Data Lead_SE	142385
+Data Management Analyst_EN	80300
+Data Management Analyst_MI	100492
+Data Management Analyst_SE	174534
+Data Management Consultant_SE	92500
+Data Management Specialist_MI	75457
+Data Management Specialist_SE	121141
+Data Manager_EN	89575
+Data Manager_EX	93100
+Data Manager_MI	97002
+Data Manager_SE	122117
+Data Modeler_MI	113108
+Data Modeler_SE	134983
+Data Modeller_MI	67500
+Data Operations Analyst_EN	85687
+Data Operations Analyst_MI	72685
+Data Operations Analyst_SE	111512
+Data Operations Associate_EN	61687
+Data Operations Associate_MI	82500
+Data Operations Engineer_MI	80000
+Data Operations Engineer_SE	165490
+Data Operations Manager_MI	110000
+Data Operations Manager_SE	136000
+Data Operations Specialist_MI	92666
+Data Operations Specialist_SE	90140
+Data Pipeline Engineer_SE	172500
+Data Product Manager_MI	148364
+Data Product Manager_SE	162015
+Data Product Owner_MI	117829
+Data Product Owner_SE	125680
+Data Quality Analyst_EN	53375
+Data Quality Analyst_MI	75833
+Data Quality Analyst_SE	92012
+Data Quality Engineer_EN	22000
+Data Quality Engineer_SE	119500
+Data Quality Manager_MI	46500
+Data Quality Manager_SE	139500
+Data Reporting Analyst_EN	70250
+Data Science Analyst_EN	101000
+Data Science Consultant_EN	53833
+Data Science Consultant_EX	59000
+Data Science Consultant_MI	84800
+Data Science Consultant_SE	132408
+Data Science Director_EX	174750
+Data Science Engineer_EN	95000
+Data Science Engineer_EX	140000
+Data Science Engineer_MI	132233
+Data Science Engineer_SE	151744
+Data Science Lead_MI	156783
+Data Science Lead_SE	176438
+Data Science Manager_EX	194128
+Data Science Manager_MI	280946
+Data Science Manager_SE	373816
+Data Science Practitioner_MI	115600
+Data Science Practitioner_SE	144480
+Data Science Tech Lead_SE	375000
+Data Science_EN	71287
+Data Science_EX	214556
+Data Science_MI	139762
+Data Science_SE	171526
+Data Scientist Lead_MI	85000
+Data Scientist Lead_SE	183000
+Data Scientist_EN	182005
+Data Scientist_EX	208105
+Data Scientist_MI	197606
+Data Scientist_SE	171597
+Data Specialist_EN	66680
+Data Specialist_MI	85936
+Data Specialist_SE	106240
+Data Strategist_MI	90425
+Data Strategist_SE	108388
+Data Strategy Manager_SE	138750
+Data Visualization Analyst_SE	120000
+Data Visualization Engineer_SE	122975
+Data Visualization Specialist_EN	91050
+Data Visualization Specialist_MI	113001
+Data Visualization Specialist_SE	122275
+Decision Scientist_MI	173350
+Decision Scientist_SE	163006
+Deep Learning Engineer_EN	135000
+Deep Learning Engineer_MI	90000
+Deep Learning Engineer_SE	295890
+Deep Learning Researcher_SE	115000
+Director of Business Intelligence_EX	187500
+Director of Data Science_EX	224519
+Director of Data Science_MI	204500
+Director of Data Science_SE	131000
+ETL Developer_MI	103887
+ETL Developer_SE	129343
+ETL Engineer_EX	150000
+ETL Engineer_MI	58750
+Encounter Data Management Professional_MI	62625
+Encounter Data Management Professional_SE	83000
+Finance Data Analyst_EN	40000
+Finance Data Analyst_SE	172500
+Financial Data Analyst_EN	78250
+Financial Data Analyst_MI	102500
+Head of Data Science_EX	190556
+Head of Data Science_MI	2555000
+Head of Data_EX	215705
+Head of Data_MI	30000
+Head of Data_SE	168400
+Head of Machine Learning_EX	1146000
+Insight Analyst_EN	45000
+Insight Analyst_MI	39100
+Insight Analyst_SE	57500
+Lead Data Analyst_MI	1281000
+Lead Data Analyst_SE	170000
+Lead Data Engineer_EX	150000
+Lead Data Engineer_MI	56000
+Lead Data Engineer_SE	159000
+Lead Data Scientist_MI	82500
+Lead Data Scientist_SE	924707
+Lead Machine Learning Engineer_SE	1566200
+ML Engineer_EN	99375
+ML Engineer_EX	210950
+ML Engineer_MI	490439
+ML Engineer_SE	208521
+ML Ops Engineer_MI	156400
+MLOps Engineer_EN	95650
+MLOps Engineer_MI	145290
+MLOps Engineer_SE	170080
+Machine Learning Developer_EN	73600
+Machine Learning Developer_MI	105000
+Machine Learning Developer_SE	80000
+Machine Learning Engineer_EN	111315
+Machine Learning Engineer_EX	235030
+Machine Learning Engineer_MI	162748
+Machine Learning Engineer_SE	201485
+Machine Learning Infrastructure Engineer_MI	118630
+Machine Learning Infrastructure Engineer_SE	172069
+Machine Learning Manager_SE	156750
+Machine Learning Modeler_SE	173350
+Machine Learning Operations Engineer_EN	150000
+Machine Learning Operations Engineer_MI	142187
+Machine Learning Operations Engineer_SE	120000
+Machine Learning Research Engineer_EN	62666
+Machine Learning Research Engineer_MI	75000
+Machine Learning Researcher_MI	150158
+Machine Learning Researcher_SE	152488
+Machine Learning Scientist_EN	112666
+Machine Learning Scientist_EX	190000
+Machine Learning Scientist_MI	233893
+Machine Learning Scientist_SE	179929
+Machine Learning Software Engineer_MI	747400
+Machine Learning Software Engineer_SE	218654
+Machine Learning Specialist_MI	55000
+Manager Data Management_SE	1562500
+Managing Director Data Science_EX	280000
+Marketing Data Analyst_SE	137500
+Marketing Data Engineer_EN	90000
+Marketing Data Scientist_SE	90000
+NLP Engineer_EX	175000
+NLP Engineer_MI	986000
+NLP Engineer_SE	144270
+Power BI Developer_MI	60000
+Principal Data Analyst_MI	75000
+Principal Data Analyst_SE	170000
+Principal Data Architect_SE	3000000
+Principal Data Engineer_SE	156666
+Principal Data Scientist_EX	416000
+Principal Data Scientist_MI	151000
+Principal Data Scientist_SE	164375
+Principal Machine Learning Engineer_SE	181666
+Product Data Analyst_EN	91600
+Product Data Analyst_MI	503333
+Product Data Analyst_SE	57000
+Prompt Engineer_MI	182552
+Prompt Engineer_SE	214114
+Quantitative Research Analyst_EN	51000
+Research Analyst_EN	104789
+Research Analyst_EX	178500
+Research Analyst_MI	108144
+Research Analyst_SE	124339
+Research Engineer_EN	294243
+Research Engineer_MI	197691
+Research Engineer_SE	196920
+Research Scientist_EN	164461
+Research Scientist_EX	161666
+Research Scientist_MI	169757
+Research Scientist_SE	203050
+Robotics Engineer_MI	80000
+Robotics Engineer_SE	152500
+Robotics Software Engineer_MI	175750
+Robotics Software Engineer_SE	217500
+Sales Data Analyst_MI	60000
+Software Data Engineer_MI	100000
+Software Data Engineer_SE	130000
+Staff Data Analyst_EN	60000
+Staff Data Analyst_EX	15000
+Staff Data Analyst_MI	179998
+Staff Data Scientist_SE	134500
+Staff Machine Learning Engineer_SE	185000

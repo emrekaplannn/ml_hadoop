@@ -1,0 +1,155 @@
+AI Architect	252001
+AI Developer	134684
+AI Engineer	163901
+AI Product Manager	141766
+AI Programmer	764400
+AI Research Engineer	360871
+AI Research Scientist	104833
+AI Scientist	225145
+AI Software Engineer	287640
+AWS Data Architect	258000
+Admin & Data Analyst	60750
+Analytics Engineer	158968
+Analytics Engineering Manager	325000
+Applied Data Scientist	226884
+Applied Machine Learning Engineer	140000
+Applied Machine Learning Scientist	554842
+Applied Research Scientist	60000
+Applied Scientist	190034
+Autonomous Vehicle Technician	82777
+Azure Data Engineer	100000
+BI Analyst	128451
+BI Data Analyst	645526
+BI Data Engineer	60000
+BI Developer	103850
+Bear Robotics	167500
+Big Data Architect	124999
+Big Data Developer	117000
+Big Data Engineer	492300
+Business Data Analyst	206857
+Business Intelligence	144810
+Business Intelligence Analyst	113095
+Business Intelligence Data Analyst	95000
+Business Intelligence Developer	99946
+Business Intelligence Engineer	139485
+Business Intelligence Lead	137379
+Business Intelligence Manager	135215
+Business Intelligence Specialist	132261
+CRM Data Analyst	40000
+Cloud Data Architect	250000
+Cloud Data Engineer	131000
+Cloud Database Engineer	143538
+Compliance Data Analyst	45000
+Computational Biologist	216750
+Computer Vision Engineer	217293
+Computer Vision Software Engineer	94200
+Consultant Data Engineer	105000
+Data Analyst	109317
+Data Analyst Lead	109000
+Data Analytics Associate	91000
+Data Analytics Consultant	86690
+Data Analytics Engineer	76400
+Data Analytics Lead	255530
+Data Analytics Manager	185593
+Data Analytics Specialist	98811
+Data Architect	160705
+Data DevOps Engineer	60794
+Data Developer	96914
+Data Engineer	149719
+Data Infrastructure Engineer	204192
+Data Integration Developer	140580
+Data Integration Engineer	121272
+Data Integration Specialist	218284
+Data Lead	157689
+Data Management Analyst	92538
+Data Management Consultant	92500
+Data Management Specialist	104529
+Data Manager	108395
+Data Modeler	130295
+Data Modeller	67500
+Data Operations Analyst	96432
+Data Operations Associate	75562
+Data Operations Engineer	133431
+Data Operations Manager	123000
+Data Operations Specialist	91403
+Data Pipeline Engineer	172500
+Data Product Manager	155948
+Data Product Owner	119791
+Data Quality Analyst	81528
+Data Quality Engineer	100000
+Data Quality Manager	77500
+Data Reporting Analyst	70250
+Data Science	161862
+Data Science Analyst	101000
+Data Science Consultant	117239
+Data Science Director	174750
+Data Science Engineer	142922
+Data Science Lead	166611
+Data Science Manager	338386
+Data Science Practitioner	133650
+Data Science Tech Lead	375000
+Data Scientist	178865
+Data Scientist Lead	134000
+Data Specialist	90247
+Data Strategist	102400
+Data Strategy Manager	138750
+Data Visualization Analyst	120000
+Data Visualization Engineer	122975
+Data Visualization Specialist	112515
+Decision Scientist	164639
+Deep Learning Engineer	200445
+Deep Learning Researcher	115000
+Director of Business Intelligence	187500
+Director of Data Science	214804
+ETL Developer	122070
+ETL Engineer	89166
+Encounter Data Management Professional	72812
+Finance Data Analyst	128333
+Financial Data Analyst	90375
+Head of Data	208783
+Head of Data Science	584630
+Head of Machine Learning	1146000
+Insight Analyst	42571
+Lead Data Analyst	1095833
+Lead Data Engineer	140333
+Lead Data Scientist	771578
+Lead Machine Learning Engineer	1566200
+ML Engineer	271105
+ML Ops Engineer	156400
+MLOps Engineer	151752
+Machine Learning Developer	84300
+Machine Learning Engineer	193225
+Machine Learning Infrastructure Engineer	165592
+Machine Learning Manager	156750
+Machine Learning Modeler	173350
+Machine Learning Operations Engineer	136527
+Machine Learning Research Engineer	67600
+Machine Learning Researcher	151157
+Machine Learning Scientist	190344
+Machine Learning Software Engineer	359653
+Machine Learning Specialist	55000
+Manager Data Management	1562500
+Managing Director Data Science	280000
+Marketing Data Analyst	137500
+Marketing Data Engineer	90000
+Marketing Data Scientist	90000
+NLP Engineer	316713
+Power BI Developer	60000
+Principal Data Analyst	122500
+Principal Data Architect	3000000
+Principal Data Engineer	156666
+Principal Data Scientist	188200
+Principal Machine Learning Engineer	181666
+Product Data Analyst	291700
+Prompt Engineer	204831
+Quantitative Research Analyst	51000
+Research Analyst	112591
+Research Engineer	207604
+Research Scientist	191934
+Robotics Engineer	140416
+Robotics Software Engineer	196625
+Sales Data Analyst	60000
+Software Data Engineer	120000
+Staff Data Analyst	84999
+Staff Data Scientist	134500
+Staff Machine Learning Engineer	185000
